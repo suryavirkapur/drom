@@ -3,7 +3,7 @@ import { Text } from "@chakra-ui/react";
 const Home = () => {
   return (
     <>
-      <Text textSize="lg">Your video is ready:</Text>
+      <Text>Your video is ready:</Text>
       <iframe
         width="560"
         height="315"
