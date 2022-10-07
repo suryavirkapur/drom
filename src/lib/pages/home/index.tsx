@@ -1,6 +1,5 @@
 import { Button, Flex, Textarea } from "@chakra-ui/react";
 import { NextSeo } from "next-seo";
-import Link from "next/link";
 import React from "react";
 
 const Home = () => {
