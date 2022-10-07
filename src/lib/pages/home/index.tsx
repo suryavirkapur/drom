@@ -5,8 +5,8 @@ import React from "react";
 const Home = () => {
   const [value, setValue] = React.useState("");
 
-  const handleInputChange = (e: React.FormEvent) => {
-    const inputValue = e.target.value;
+  const handleInputChange = (e: any) => {
+    const inputValue = e?.target?.value;
     setValue(inputValue);
   };
 
