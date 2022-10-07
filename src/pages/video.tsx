@@ -8,6 +8,7 @@ const Home = () => {
         width="560"
         height="315"
         src="http://www.youtube.com/embed/Y8ACyHYsb6Q?modestbranding=1"
+        title="new"
       />
     </>
   );
